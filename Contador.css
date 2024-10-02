@@ -1,0 +1,18 @@
+* {
+   background-color: dimgray;
+   text-align: center;
+}
+
+#tabla {
+    text-align: center;
+    margin: auto;
+    color: white;
+    font-size: 130%;
+    padding: 8px;
+
+}
+
+#boton1{
+    border-radius: 25%;
+}
+
